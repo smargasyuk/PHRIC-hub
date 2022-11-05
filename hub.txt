@@ -1,0 +1,5 @@
+hub PHRIC
+shortLabel PHRIC
+longLabel Support for PCCR in RIC-seq data
+genomesFile genomes.txt
+email smargasyuk@gmail.com

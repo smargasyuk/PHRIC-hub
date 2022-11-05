@@ -1,0 +1,5 @@
+Snakefile
+config.yaml
+input/*
+contacts.tsv
+.snakemake

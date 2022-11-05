@@ -1,0 +1,32 @@
+
+track contacts_all
+type bigBed 12 +
+bigDataUrl contacts_all.bb
+itemRgb on
+visibility 3
+shortLabel All contacts
+longLabel Contacts with handles in [-150;150] from PCCR
+
+track contacts_IO
+type bigBed 12 +
+bigDataUrl contacts_IO.bb
+itemRgb on
+visibility 3
+shortLabel I/O contacts
+longLabel Contacts with handles in [-100;100] from PCCR in I/O orientation
+
+track PCCR_all
+type bigBed 12 +
+bigDataUrl PCCR_all.bb
+itemRgb on
+visibility 3
+shortLabel All PCCRs
+longLabel PCCRs that have contacts with handles in [-150;150] from PCCR
+
+track PCCR_IO
+type bigBed 12 +
+bigDataUrl PCCR_IO.bb
+itemRgb on
+visibility 3
+shortLabel I/O supported PCCRs
+longLabel PCCRs that have contacts with handles in [-100;100] from PCCR in I/O orientation
